@@ -1,16 +1,35 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**ffenix7/ffenix7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p><h1>ffenix7</h1></p>
+</div>
 
-Here are some ideas to get you started:
+<div align="center"><i>⭐"Per aspera ad astra"⭐</i></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages && technologies:
+
+#### 💪 Confident:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100">
+</div>
+
+#### 👨‍🎓 Learning:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="TensorFlow" width="100">
+</div>
+
+#### 🧠 To learn:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="100">
+</div>
+
+---
+
+### 🔥 Stats:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffenix7&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="top" height="175" align="left">
