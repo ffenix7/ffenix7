@@ -14,12 +14,13 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="TensorFlow" width="100">
 </div>
 
 #### 👨‍🎓 Learning:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="TensorFlow" width="100">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="Python" width="100">
 </div>
 
 #### 🧠 To learn:
