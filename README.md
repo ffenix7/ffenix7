@@ -1,36 +1,45 @@
 <div id="header" align="center">
-
-  <p><h1>ffenix7</h1></p>
+  <h1>ffenix7</h1>
 </div>
 
-<div align="center"><i>⭐"Per aspera ad astra"⭐</i></div>
+<div align="center"><i>⭐ "Per aspera ad astra" ⭐</i></div>
 
 ---
 
-### 🛠️ Languages && technologies:
+### 🎯 Current Goal:
 
-#### 💪 Confident:
+I'm currently preparing for the **Polish AI Olympiad (Olimpiada AI)** – working on custom models, experimenting with data processing techniques, and diving deep into **machine learning**, **deep learning**, and **natural language processing**.
+
+---
+
+### 🛠️ Languages & Technologies:
+
+#### 💪 Confident with:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="TensorFlow" width="100">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="90">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="90">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="90">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="90">
 </div>
 
-#### 👨‍🎓 Learning:
+#### 🧠 Actively learning:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="Python" width="100">
-</div>
-
-#### 🧠 To learn:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="100">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="90">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="90">
 </div>
 
 ---
 
-### 🔥 Stats:
+### 🧠 Areas of AI I'm exploring:
+
+- Computer Vision (segmentation, object detection)
+- Natural Language Processing (embeddings, fact retrieval, text classification)
+- Model optimization and error analysis
+
+---
+
+### 🔥 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffenix7&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="top" height="175" align="left">
