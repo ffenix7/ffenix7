@@ -42,4 +42,4 @@ I'm currently preparing for the **Polish AI Olympiad (Olimpiada AI)** – workin
 
 ### 🔥 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffenix7&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="top" height="175" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffenix7&theme=onedark&hide_border=true&hide=Jupyter%20Notebook&exclude_repo=github-readme-stats&layout=compact" alt="top" height="175" align="left">
